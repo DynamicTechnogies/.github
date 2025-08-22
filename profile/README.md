@@ -1,4 +1,4 @@
-# ⚡ DynamicTechnologies  
+# ⚡ DynamicTech  
 
 Welcome to **DynamicTechnologies**, a modern tech company founded by **Mr. Frank (Darrell Mucheri)**.  
 We specialize in delivering innovative, scalable, and efficient digital solutions tailored to meet the evolving needs of users and businesses across Africa and beyond.  
